@@ -1,0 +1,18 @@
+#at_top{
+  background: #BF5B30;
+}
+#at_header{
+  background: #A63100;
+}
+.at_showcase_overlay.at_with_blog_cover{
+  background-color:rgba(255,75,0,.75);
+}
+a{
+  color:#FF7940;
+}
+.button{
+  background-color:#FF7940;
+}
+.button:hover{
+  background-color:#A63100;
+}
